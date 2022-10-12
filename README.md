@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @qjnqjn
-- 👀 I’m interested in read books, self-development, space.
-- 🌱 I’m currently learning C++, JS, Python, Java.
-- 💞️ I’m looking to collaborate on myself.
-- 📫 How to reach me no way.
+- 👀 I’m interested in read books, self-development, space-cosmic.
+- 🌱 I’m currently learning C#, JavaScript.
+- 💞️ I’m would be a GameDeveloper, WebDeveleloper. Also, I wanna study space.
+- 📫 How to reach me DS: qjn#2858, Telegram: @sociopathing
 
 <!---
 qjnqjn/qjnqjn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
