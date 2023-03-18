@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @qjnqjn
+- 👋 Hi, I’m @sociop
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning nothing
 - 💞️ I’m would be a nothing
