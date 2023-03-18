@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning nothing
 - 💞️ I’m would be a nothing
 - 📫 How to reach me Telegram: @sociop
-Real.
+- Real.
 
 <!---
 qjnqjn/qjnqjn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
