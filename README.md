@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @qjnqjn
-- 👀 I’m interested in read books, self-development, space-cosmic.
-- 🌱 I’m currently learning C#, JavaScript.
-- 💞️ I’m would be a GameDeveloper, WebDeveloper. Also, I wanna study space.
-- 📫 How to reach me DS: qjn#2858, Telegram: @sociopathing
+- 👀 I’m interested in nothing
+- 🌱 I’m currently learning nothing
+- 💞️ I’m would be a nothing
+- 📫 How to reach me Telegram: @sociop
 
 <!---
 qjnqjn/qjnqjn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
