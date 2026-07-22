@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sociop
-- 👀 I’m interested in AI & ML, Web Development as FullStack, GameDev
+- 👀 I’m interested in Web/GameDev
 - 🌱 I’m currently learning C++, JavaScript, Python
 - 💞️ I’m would be an Enthusiast Engineer Developer.
 - 📫 How to reach me Telegram: @sociop
